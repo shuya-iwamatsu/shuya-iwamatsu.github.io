@@ -107,7 +107,7 @@ header {
 }
 
 .header-left a:hover {
-  background-color: #980119;
+  background-color: #abcdef;
   color: #004c93;
 }
 
@@ -127,7 +127,7 @@ header {
 }
 
 .header-right a:hover {
-  background-color: #980119;
+  background-color: #abcdef;
   color: #004c93;
 }
 
