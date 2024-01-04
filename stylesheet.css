@@ -20,11 +20,11 @@ a {
 .top-wrapper {
   padding: 400px 0 300px 0;
   background-image: url(Github.JPG);
-  background-position: center;
+  background-position: right;
   width: 50%;
   height: 600px;
   color: white;
-  text-align: center;
+  text-align: left;
 }
 
 .top-wrapper h1 {
