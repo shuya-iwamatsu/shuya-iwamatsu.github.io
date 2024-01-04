@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  background-color: #bbbbbb;
 }
 
 body {
@@ -134,7 +135,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #ffffff;
+  background-color: #bbbbbb;
   text-align: center;
 }
 
