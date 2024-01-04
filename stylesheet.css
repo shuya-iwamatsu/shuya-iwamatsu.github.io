@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
-  background-color: #bbbbbb;
+  background-color: #000119;
 }
 
 a {
@@ -79,7 +79,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #004c93;
+  background-color: #011998;
   position :fixed;
   top: 0;
   z-index: 10;
@@ -106,7 +106,7 @@ header {
 }
 
 .header-left a:hover {
-  background-color: #efe4bf;
+  background-color: #980119;
   color: #004c93;
 }
 
@@ -126,7 +126,7 @@ header {
 }
 
 .header-right a:hover {
-  background-color: #efe4bf;
+  background-color: #980119;
   color: #004c93;
 }
 
@@ -135,7 +135,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #bbbbbb;
+  background-color: #000119;
   text-align: center;
 }
 
@@ -143,7 +143,7 @@ header {
   padding-top: 80px;
   padding-left: 40px;
   padding-bottom: 50px;
-  color: #191919;
+  color: #ffffff;
 }
 
 .heading h2 {
@@ -173,7 +173,7 @@ header {
   margin-top: 15px;
   margin-left: 15px;
   font-size: 13px;
-  color: #b3aeb5;
+  color: #ffffff;
 }
 
 .u {
