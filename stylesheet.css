@@ -110,7 +110,7 @@ header {
 
 .header-left a:hover {
   background-color: #abcdef;
-  color: #004c93;
+  color: #0077ff;
 }
 
 .header-right {
@@ -130,7 +130,7 @@ header {
 
 .header-right a:hover {
   background-color: #abcdef;
-  color: #004c93;
+  color: #0077ff;
 }
 
 .lesson-wrapper {
